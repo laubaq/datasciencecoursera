@@ -1,2 +1,1 @@
-# datasciencecoursera
-This is just a test for Data course
+## This is a markdown file
